@@ -1,6 +1,6 @@
 # Bienvenue dans le projet ! 
 
-Ce projet a pour but de [décrire brièvement l'objectif du projet]. 
+Ce projet a pour but de [Automatisation de la Gestion des Fichiers]. 
 
 Pour plus de détails sur le projet, veuillez consulter les fichiers README situés dans les dossiers appropriés :
 
