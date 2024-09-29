@@ -1,0 +1,13 @@
+# Ignorer tous les fichiers d'image
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+
+# Ignorer les dossiers d'images (si tu ne veux pas les suivre)
+**/images/
+**/icone/
+**/all_images/
