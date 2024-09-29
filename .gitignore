@@ -11,3 +11,6 @@
 **/images/
 **/icone/
 **/all_images/
+
+# Ignore le fichier get-pip.py
+get-pip.py

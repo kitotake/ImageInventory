@@ -30,3 +30,4 @@ Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer 
 ## Liens
 
 Pour plus de détails sur le fonctionnement du code, veuillez consulter [la documentation du code](./README_Code.md).
+

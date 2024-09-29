@@ -37,3 +37,4 @@ Ce projet vise à rendre la gestion des images plus facile et plus efficace. Les
 ## Liens
 
 Pour revenir à la description du projet, consultez [README du projet](./README_Project.md).
+

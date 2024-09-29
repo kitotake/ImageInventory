@@ -37,3 +37,4 @@ This project aims to make image management easier and more efficient. Users can 
 ## Links
 
 To return to the project description, refer to [Project README](./README_Project.md).
+
